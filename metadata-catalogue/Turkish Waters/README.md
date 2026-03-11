@@ -21,10 +21,10 @@ The Turkish Waters case study includes a diverse range of datasets:
 - Water Column Biogeochemistry: Chemical and nutrient parameters from water samples.
 - Phytoplankton Data: Species lists, abundance, and images from preserved water samples.
 - Environmental DNA (eDNA): Molecular data from DNA extracted from seawater, sediment, and plant tissue samples (stored as FASTQ files).
-- Seagrass (Posidonia) Meadow Data:
-◦ Photogrammetry: Orthomosaics of visible seagrass meadows.
-◦ In-situ Measurements: Shoot density, lower limit depth, and meadow type from visual census by diving.
-◦ Laboratory Measurements: Epiphyte biomass, phenological measurements, and annual productivity.
+- Seagrass (Posidonia) Meadow Data:  
+  ◦ Photogrammetry: Orthomosaics of visible seagrass meadows.  
+  ◦ In-situ Measurements: Shoot density, lower limit depth, and meadow type from visual census by diving.  
+  ◦ Laboratory Measurements: Epiphyte biomass, phenological measurements, and annual productivity.
 
 ## Data Collection Methods
 
